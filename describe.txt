@@ -1,0 +1,6 @@
+Website has 4 functions: Create, Update, Read, Delete
+To open the website need:
+- Download xampp software, then open the file xampp_control.exe and press Start of Module Apache, MySQL.
+- Go to Google Chorme write http://localhost/php_tur/feedbackPj/index.php to open the main web page of the website.
+
+
